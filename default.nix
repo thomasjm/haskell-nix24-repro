@@ -22,7 +22,7 @@ in
 haskell-nix.stackProject {
   inherit src;
 
-  stack-sha256 = "0sjy3kphhbmbxp1flw0njvwpl57yhxys3542bics0zalrl72kn8c";
+  stack-sha256 = "1qw0pk9gbgp2m2fwx8q2grjbh141zgixbgdjhh722q8600jnw85a";
   materialized = ./materialized;
   inherit checkMaterialization;
 
